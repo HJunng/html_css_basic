@@ -1,0 +1,7 @@
+.image {
+  width: 400px;
+  height: 400px;
+
+  object-fit: cover; /* cover는 종횡비 유지하면서 width,height 대로 자름. */
+  
+}
